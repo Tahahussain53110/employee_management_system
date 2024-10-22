@@ -1,0 +1,8 @@
+# Ignoring content within the "dist" directory
+/dist/
+
+# Ignoring content within the "node_modules" directory
+/node_modules/
+
+# Ignoring the environment variables file
+.env*
